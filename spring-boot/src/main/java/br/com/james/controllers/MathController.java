@@ -1,4 +1,4 @@
-package br.com.james;
+package br.com.james.controllers;
 
 import java.util.concurrent.atomic.AtomicLong;
 

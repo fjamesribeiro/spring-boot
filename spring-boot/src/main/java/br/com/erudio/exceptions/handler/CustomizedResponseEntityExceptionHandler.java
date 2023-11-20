@@ -1,4 +1,4 @@
-package br.com.james.exceptions.handler;
+package br.com.erudio.exceptions.handler;
 
 import java.util.Date;
 
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
-import br.com.james.exceptions.ExceptionResponse;
-import br.com.james.exceptions.ResourceNotFoundException;
+import br.com.erudio.exceptions.ExceptionResponse;
+import br.com.erudio.exceptions.ResourceNotFoundException;
 
 @ControllerAdvice
 @RestController
